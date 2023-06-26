@@ -7,7 +7,7 @@
   I’m constantly learning better ways to improve my skills while performing at
   my best in any team I join. I adapt quickly and I’m always eager to learn new
   tricks on better ways to create simple solutions to complex problems. With
-  more than three years of experience and 100+ successful projects, I have
+  more than three years of experience and 20+ successful projects, I have
   gotten a good knowledge and implementation in different languages, frameworks,
   and libraries, some of which includes HTML, CSS, JavaScript, jQuery,
   ReactJS,NodeJS,NextJS,ExpressJS, Material-UI, Bootstrap, PHP,Codeigniter
